@@ -1,2 +1,1 @@
-My first readme
-Updated readme
+Git project _Updated 
